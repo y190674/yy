@@ -11,8 +11,8 @@ import com.dzkj.HelloWord.Helloord;
 public class JTest {
 	@Test
 	public void testHW(){
-		Logger log=Logger.getLogger(JTest.class);
-		log.info(new Helloord().print());
+		//Logger log=Logger.getLogger(JTest.class);
+		//log.info(new Helloord().print());
 	}
 	
 
